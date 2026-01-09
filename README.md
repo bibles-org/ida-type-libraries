@@ -1,5 +1,3 @@
-# ida-type-libraries
-
 ## Disclaimer
 A `.til` file is a derived artifact of the headers it was generated from, and its use and redistribution are governed by the license of those source headers.
 No ownership is claimed over third-party libraries or SDKs, nor proprietary definitions.
